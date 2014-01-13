@@ -21,7 +21,7 @@
 							<img src="images/1.jpg" width="220px;"/> 
 						</div>
 						<div style="float:right; margin:25px 40px 0 0; width:450px; font-size:20px; text-align:justify; font-family:candara;">
-							Sending flowers online is the perfect way to give a last-minute gift or commemorate a special occasion across the miles. Our FTD and Teleflora flowers range from tropical flower arrangements to funeral flowers to flowers for men, and are hand-delivered with care and accuracy by REAL florists. One more line of bullshit for filling more space.
+							Sending flowers online is the perfect way to give a last-minute gift or commemorate a special occasion across the miles. Our FTD and Teleflora flowers range from tropical flower arrangements to funeral flowers to flowers for men, and are hand-delivered with care and accuracy by REAL florists.
 							<br><br>
 							<div width="200px" style="float:left; padding-right:50px;">
 								<span style="font-size:23px;">#1</span>
@@ -38,7 +38,7 @@
 							<img src="images/2.jpg" width="220px;"/>
 						</div>
 						<div style="float:right; margin:25px 40px 0 0; width:450px; font-size:20px; text-align:justify; font-family:candara;">
-							Sending flowers online is the perfect way to give a last-minute gift or commemorate a special occasion across the miles. Our FTD and Teleflora flowers range from tropical flower arrangements to funeral flowers to flowers for men, and are hand-delivered with care and accuracy by REAL florists. One more line of bullshit for filling more space.
+							Sending flowers online is the perfect way to give a last-minute gift or commemorate a special occasion across the miles. Our FTD and Teleflora flowers range from tropical flower arrangements to funeral flowers to flowers for men, and are hand-delivered with care and accuracy by REAL florists.
 							<br><br>
 							<div width="200px" style="float:left; padding-right:50px;">
 								<span style="font-size:23px;">#2</span>
@@ -55,7 +55,7 @@
 							<img src="images/3.jpg" width="220px;"/>
 						</div>
 						<div style="float:right; margin:25px 40px 0 0; width:450px; font-size:20px; text-align:justify; font-family:candara;">
-							Sending flowers online is the perfect way to give a last-minute gift or commemorate a special occasion across the miles. Our FTD and Teleflora flowers range from tropical flower arrangements to funeral flowers to flowers for men, and are hand-delivered with care and accuracy by REAL florists. One more line of bullshit for filling more space.
+							Sending flowers online is the perfect way to give a last-minute gift or commemorate a special occasion across the miles. Our FTD and Teleflora flowers range from tropical flower arrangements to funeral flowers to flowers for men, and are hand-delivered with care and accuracy by REAL florists.
 							<br><br>
 							<div width="200px" style="float:left; padding-right:50px;">
 								<span style="font-size:23px;">#3</span>
